@@ -5,7 +5,7 @@ DBpedia_HITS_Scores
 ##Source Dataset
 
 
-DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute Hubs and Authority(HITS) scores. More details about DBpedia_PageLinks_Cleaned Dataset and how it is created can be found here.
+DBpedia_PageLinks_Cleaned Dataset (3.9) is used to compute Hubs and Authority(HITS) scores. More details about DBpedia_PageLinks_Cleaned Dataset and how it is created can be found [here](http://semanticmultimedia.org/node/6).
 
 
 ##Implementation
