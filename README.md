@@ -26,10 +26,10 @@ Alpha: 0.15 //the probability of a hub giving some authority to all vertices, an
 If you are using this dataset please cite as:
 
 ```
-{dbpedia-HITS,
+{dbpedia-graphmeasures,
   Author = {Dinesh Reddy},
-  Title = {DBpedia HITS data set},
-  Location = {https://github.com/dineshreddykdp/DBpedia_HITS_Scores},
+  Title = {DBpedia GraphMeasures},
+  Location = {http://semanticmultimedia.org/node/6},
   Resource type = {dataset},
   Publisher = {Hasso Plattner Institute},
   Publication date = {July 2014},
